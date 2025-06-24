@@ -1,0 +1,16 @@
+{
+    "system_name": "Joomla Powers (codeberg - mirror)",
+    "organisation": "joomla",
+    "repository": "joomla-powers",
+    "target": 2,
+    "type": 1,
+    "base": "https:\/\/codeberg.org",
+    "guid": "8ac595d4-0b1d-4877-ba3e-2b815c1c7e3c",
+    "addplaceholders": null,
+    "access_repo": 0,
+    "write_branch": "",
+    "read_branch": "master",
+    "author_email": "",
+    "author_name": "",
+    "username": ""
+}
