@@ -1,0 +1,16 @@
+{
+    "system_name": "Repositories (codeberg - mirror)",
+    "organisation": "joomla",
+    "repository": "repoindex",
+    "target": 6,
+    "type": 1,
+    "base": "https:\/\/codeberg.org",
+    "guid": "a8701724-b77c-4e5a-9efc-61701341e8e5",
+    "addplaceholders": null,
+    "access_repo": 0,
+    "write_branch": "",
+    "read_branch": "master",
+    "author_email": "",
+    "author_name": "",
+    "username": ""
+}
