@@ -1,0 +1,74 @@
+{
+    "8213b3a3-8618-4b29-92b3-15c9f26f019c": {
+        "name": "Super Powers (codeberg - mirror)",
+        "path": "src\/8213b3a3-8618-4b29-92b3-15c9f26f019c",
+        "settings": "src\/8213b3a3-8618-4b29-92b3-15c9f26f019c\/item.json",
+        "guid": "8213b3a3-8618-4b29-92b3-15c9f26f019c"
+    },
+    "64a84f86-391e-4e4b-be99-b2c7c41a6005": {
+        "name": "PHP Seclib (codeberg - mirror)",
+        "path": "src\/64a84f86-391e-4e4b-be99-b2c7c41a6005",
+        "settings": "src\/64a84f86-391e-4e4b-be99-b2c7c41a6005\/item.json",
+        "guid": "64a84f86-391e-4e4b-be99-b2c7c41a6005"
+    },
+    "cb800a2c-4bf7-41c8-9360-cfe9d54cdf2b": {
+        "name": "Gitea (codeberg - mirror)",
+        "path": "src\/cb800a2c-4bf7-41c8-9360-cfe9d54cdf2b",
+        "settings": "src\/cb800a2c-4bf7-41c8-9360-cfe9d54cdf2b\/item.json",
+        "guid": "cb800a2c-4bf7-41c8-9360-cfe9d54cdf2b"
+    },
+    "c625381a-7795-4b9f-8b4e-997c9291e3fc": {
+        "name": "Openai (codeberg - mirror)",
+        "path": "src\/c625381a-7795-4b9f-8b4e-997c9291e3fc",
+        "settings": "src\/c625381a-7795-4b9f-8b4e-997c9291e3fc\/item.json",
+        "guid": "c625381a-7795-4b9f-8b4e-997c9291e3fc"
+    },
+    "8ac595d4-0b1d-4877-ba3e-2b815c1c7e3c": {
+        "name": "Joomla Powers (codeberg - mirror)",
+        "path": "src\/8ac595d4-0b1d-4877-ba3e-2b815c1c7e3c",
+        "settings": "src\/8ac595d4-0b1d-4877-ba3e-2b815c1c7e3c\/item.json",
+        "guid": "8ac595d4-0b1d-4877-ba3e-2b815c1c7e3c"
+    },
+    "bf4a1d77-e3a4-4aa8-a07f-2b01872bf7e9": {
+        "name": "Joomla Field Types (codeberg - mirror)",
+        "path": "src\/bf4a1d77-e3a4-4aa8-a07f-2b01872bf7e9",
+        "settings": "src\/bf4a1d77-e3a4-4aa8-a07f-2b01872bf7e9\/item.json",
+        "guid": "bf4a1d77-e3a4-4aa8-a07f-2b01872bf7e9"
+    },
+    "562624ab-48bf-4979-9a14-6b10cf3635de": {
+        "name": "Packages (github - mirror)",
+        "path": "src\/562624ab-48bf-4979-9a14-6b10cf3635de",
+        "settings": "src\/562624ab-48bf-4979-9a14-6b10cf3635de\/item.json",
+        "guid": "562624ab-48bf-4979-9a14-6b10cf3635de"
+    },
+    "70e85588-bc28-4459-9b29-858f68faae8f": {
+        "name": "Snippets (github - mirror)",
+        "path": "src\/70e85588-bc28-4459-9b29-858f68faae8f",
+        "settings": "src\/70e85588-bc28-4459-9b29-858f68faae8f\/item.json",
+        "guid": "70e85588-bc28-4459-9b29-858f68faae8f"
+    },
+    "8f156882-f299-4be2-ad13-fdb2c40bb207": {
+        "name": "Repositories (github - mirror)",
+        "path": "src\/8f156882-f299-4be2-ad13-fdb2c40bb207",
+        "settings": "src\/8f156882-f299-4be2-ad13-fdb2c40bb207\/item.json",
+        "guid": "8f156882-f299-4be2-ad13-fdb2c40bb207"
+    },
+    "11298fc6-11a4-4075-bdcb-622ef4f3054d": {
+        "name": "Packages (codeberg - mirror)",
+        "path": "src\/11298fc6-11a4-4075-bdcb-622ef4f3054d",
+        "settings": "src\/11298fc6-11a4-4075-bdcb-622ef4f3054d\/item.json",
+        "guid": "11298fc6-11a4-4075-bdcb-622ef4f3054d"
+    },
+    "70a9b44b-0802-4b94-9132-e5f360d0215e": {
+        "name": "Snippets (codeberg - mirror)",
+        "path": "src\/70a9b44b-0802-4b94-9132-e5f360d0215e",
+        "settings": "src\/70a9b44b-0802-4b94-9132-e5f360d0215e\/item.json",
+        "guid": "70a9b44b-0802-4b94-9132-e5f360d0215e"
+    },
+    "a8701724-b77c-4e5a-9efc-61701341e8e5": {
+        "name": "Repositories (codeberg - mirror)",
+        "path": "src\/a8701724-b77c-4e5a-9efc-61701341e8e5",
+        "settings": "src\/a8701724-b77c-4e5a-9efc-61701341e8e5\/item.json",
+        "guid": "a8701724-b77c-4e5a-9efc-61701341e8e5"
+    }
+}
