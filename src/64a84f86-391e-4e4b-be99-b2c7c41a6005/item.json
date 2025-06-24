@@ -1,0 +1,16 @@
+{
+    "system_name": "PHP Seclib (codeberg - mirror)",
+    "organisation": "joomla",
+    "repository": "phpseclib",
+    "target": 1,
+    "type": 1,
+    "base": "https:\/\/codeberg.org",
+    "guid": "64a84f86-391e-4e4b-be99-b2c7c41a6005",
+    "addplaceholders": null,
+    "access_repo": 0,
+    "write_branch": "",
+    "read_branch": "master",
+    "author_email": "",
+    "author_name": "",
+    "username": ""
+}
