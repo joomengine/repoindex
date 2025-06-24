@@ -1,0 +1,16 @@
+{
+    "system_name": "Snippets (github - mirror)",
+    "organisation": "joomengine",
+    "repository": "snippets",
+    "target": 5,
+    "type": 2,
+    "base": "https:\/\/api.github.com",
+    "guid": "70e85588-bc28-4459-9b29-858f68faae8f",
+    "addplaceholders": null,
+    "access_repo": 0,
+    "write_branch": "",
+    "read_branch": "master",
+    "author_email": "",
+    "author_name": "",
+    "username": ""
+}
