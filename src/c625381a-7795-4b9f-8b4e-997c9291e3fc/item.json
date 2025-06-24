@@ -1,0 +1,16 @@
+{
+    "system_name": "Openai (codeberg - mirror)",
+    "organisation": "joomla",
+    "repository": "openai",
+    "target": 1,
+    "type": 1,
+    "base": "https:\/\/codeberg.org",
+    "guid": "c625381a-7795-4b9f-8b4e-997c9291e3fc",
+    "addplaceholders": null,
+    "access_repo": 0,
+    "write_branch": "",
+    "read_branch": "master",
+    "author_email": "",
+    "author_name": "",
+    "username": ""
+}
