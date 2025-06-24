@@ -1,0 +1,16 @@
+{
+    "system_name": "Snippets (codeberg - mirror)",
+    "organisation": "joomla",
+    "repository": "snippets",
+    "target": 5,
+    "type": 1,
+    "base": "https:\/\/codeberg.org",
+    "guid": "70a9b44b-0802-4b94-9132-e5f360d0215e",
+    "addplaceholders": null,
+    "access_repo": 0,
+    "write_branch": "",
+    "read_branch": "master",
+    "author_email": "",
+    "author_name": "",
+    "username": ""
+}
