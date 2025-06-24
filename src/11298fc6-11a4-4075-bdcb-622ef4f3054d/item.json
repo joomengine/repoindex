@@ -1,0 +1,16 @@
+{
+    "system_name": "Packages (codeberg - mirror)",
+    "organisation": "joomla",
+    "repository": "packages",
+    "target": 4,
+    "type": 1,
+    "base": "https:\/\/codeberg.org",
+    "guid": "11298fc6-11a4-4075-bdcb-622ef4f3054d",
+    "addplaceholders": null,
+    "access_repo": 0,
+    "write_branch": "",
+    "read_branch": "master",
+    "author_email": "",
+    "author_name": "",
+    "username": ""
+}
