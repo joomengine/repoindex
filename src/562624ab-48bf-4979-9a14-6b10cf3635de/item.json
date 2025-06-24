@@ -1,0 +1,16 @@
+{
+    "system_name": "Packages (github - mirror)",
+    "organisation": "joomengine",
+    "repository": "packages",
+    "target": 4,
+    "type": 2,
+    "base": "https:\/\/api.github.com",
+    "guid": "562624ab-48bf-4979-9a14-6b10cf3635de",
+    "addplaceholders": null,
+    "access_repo": 0,
+    "write_branch": "",
+    "read_branch": "master",
+    "author_email": "",
+    "author_name": "",
+    "username": "Llewellynvdm"
+}
