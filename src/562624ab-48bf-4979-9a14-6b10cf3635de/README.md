@@ -11,7 +11,7 @@
 | Base Url | https://api.github.com |
 | Organisation | joomengine |
 | Repository | packages |
-| Username | Llewellynvdm |
+| Username |  |
 | Author Name |  |
 | Author Email |  |
 | Read Branch | master |
