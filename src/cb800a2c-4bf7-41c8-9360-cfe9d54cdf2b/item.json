@@ -1,0 +1,16 @@
+{
+    "system_name": "Gitea (codeberg - mirror)",
+    "organisation": "joomla",
+    "repository": "gitea",
+    "target": 1,
+    "type": 1,
+    "base": "https:\/\/codeberg.org",
+    "guid": "cb800a2c-4bf7-41c8-9360-cfe9d54cdf2b",
+    "addplaceholders": null,
+    "access_repo": 0,
+    "write_branch": "",
+    "read_branch": "master",
+    "author_email": "",
+    "author_name": "",
+    "username": ""
+}
