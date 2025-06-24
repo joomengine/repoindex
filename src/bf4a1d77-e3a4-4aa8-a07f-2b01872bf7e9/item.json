@@ -1,0 +1,16 @@
+{
+    "system_name": "Joomla Field Types (codeberg - mirror)",
+    "organisation": "joomla",
+    "repository": "joomla-fieldtypes",
+    "target": 3,
+    "type": 1,
+    "base": "https:\/\/codeberg.org",
+    "guid": "bf4a1d77-e3a4-4aa8-a07f-2b01872bf7e9",
+    "addplaceholders": null,
+    "access_repo": 0,
+    "write_branch": "",
+    "read_branch": "master",
+    "author_email": "",
+    "author_name": "",
+    "username": ""
+}
