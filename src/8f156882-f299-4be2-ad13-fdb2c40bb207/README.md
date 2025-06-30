@@ -1,7 +1,7 @@
 ### JCB! Repository
 # [Repositories (github - mirror)](https://api.github.com/joomengine/repoindex)
 
-- **Target:** Packages
+- **Target:** Repositories
 - **Access:** Global
 
 ## Repository Details
