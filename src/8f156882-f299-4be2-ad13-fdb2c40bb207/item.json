@@ -2,7 +2,7 @@
     "system_name": "Repositories (github - mirror)",
     "organisation": "joomengine",
     "repository": "repoindex",
-    "target": 4,
+    "target": 6,
     "type": 2,
     "base": "https:\/\/api.github.com",
     "guid": "8f156882-f299-4be2-ad13-fdb2c40bb207",
