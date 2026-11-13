@@ -1,0 +1,16 @@
+{
+    "system_name": "Joomla Powers (github)",
+    "organisation": "joomengine",
+    "repository": "joomla-powers",
+    "target": 2,
+    "type": 2,
+    "base": "https:\/\/github.com\/",
+    "guid": "4088b8b0-e92c-4f59-b480-7da328e3d828",
+    "addplaceholders": null,
+    "access_repo": 0,
+    "write_branch": "",
+    "read_branch": "master",
+    "author_email": "",
+    "author_name": "",
+    "username": ""
+}
