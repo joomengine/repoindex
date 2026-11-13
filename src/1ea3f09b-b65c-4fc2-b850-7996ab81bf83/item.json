@@ -1,0 +1,16 @@
+{
+    "system_name": "Minify (codefloe - mirror)",
+    "organisation": "joomla",
+    "repository": "minify",
+    "target": 1,
+    "type": 1,
+    "base": "https:\/\/codefloe.com",
+    "guid": "1ea3f09b-b65c-4fc2-b850-7996ab81bf83",
+    "addplaceholders": null,
+    "access_repo": 0,
+    "write_branch": "",
+    "read_branch": "master",
+    "author_email": "",
+    "author_name": "",
+    "username": ""
+}
