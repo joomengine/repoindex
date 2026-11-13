@@ -1,0 +1,16 @@
+{
+    "system_name": "Search (codefloe - mirror)",
+    "organisation": "joomla",
+    "repository": "search",
+    "target": 1,
+    "type": 1,
+    "base": "https:\/\/codefloe.com",
+    "guid": "7d7b5688-6ac9-422a-8fba-b3ce7ece6ac4",
+    "addplaceholders": null,
+    "access_repo": 0,
+    "write_branch": "",
+    "read_branch": "master",
+    "author_email": "",
+    "author_name": "",
+    "username": ""
+}
