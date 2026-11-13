@@ -1,0 +1,16 @@
+{
+    "system_name": "Joomla Field Types (github)",
+    "organisation": "joomengine",
+    "repository": "joomla-fieldtypes",
+    "target": 3,
+    "type": 2,
+    "base": "https:\/\/github.com\/",
+    "guid": "e10a2193-aa8b-4414-a57e-fa4bbedbf063",
+    "addplaceholders": null,
+    "access_repo": 0,
+    "write_branch": "",
+    "read_branch": "master",
+    "author_email": "",
+    "author_name": "",
+    "username": ""
+}
