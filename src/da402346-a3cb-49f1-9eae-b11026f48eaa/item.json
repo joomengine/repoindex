@@ -1,0 +1,16 @@
+{
+    "system_name": "Openai (github)",
+    "organisation": "joomengine",
+    "repository": "openai",
+    "target": 1,
+    "type": 2,
+    "base": "https:\/\/github.com\/",
+    "guid": "da402346-a3cb-49f1-9eae-b11026f48eaa",
+    "addplaceholders": null,
+    "access_repo": 0,
+    "write_branch": "",
+    "read_branch": "master",
+    "author_email": "",
+    "author_name": "",
+    "username": ""
+}
