@@ -1,0 +1,16 @@
+{
+    "system_name": "Gitea (github)",
+    "organisation": "joomengine",
+    "repository": "gitea",
+    "target": 1,
+    "type": 2,
+    "base": "https:\/\/github.com\/",
+    "guid": "c743c2b1-354a-4d21-acd6-5e14a13065ce",
+    "addplaceholders": null,
+    "access_repo": 0,
+    "write_branch": "",
+    "read_branch": "master",
+    "author_email": "",
+    "author_name": "",
+    "username": ""
+}
