@@ -1,0 +1,158 @@
+{
+    "8213b3a3-8618-4b29-92b3-15c9f26f019c": {
+        "name": "Super Powers (codefloe - mirror)",
+        "path": "src\/8213b3a3-8618-4b29-92b3-15c9f26f019c",
+        "settings": "src\/8213b3a3-8618-4b29-92b3-15c9f26f019c\/item.json",
+        "guid": "8213b3a3-8618-4b29-92b3-15c9f26f019c"
+    },
+    "64a84f86-391e-4e4b-be99-b2c7c41a6005": {
+        "name": "PHP Seclib (codefloe - mirror)",
+        "path": "src\/64a84f86-391e-4e4b-be99-b2c7c41a6005",
+        "settings": "src\/64a84f86-391e-4e4b-be99-b2c7c41a6005\/item.json",
+        "guid": "64a84f86-391e-4e4b-be99-b2c7c41a6005"
+    },
+    "cb800a2c-4bf7-41c8-9360-cfe9d54cdf2b": {
+        "name": "Gitea (codefloe - mirror)",
+        "path": "src\/cb800a2c-4bf7-41c8-9360-cfe9d54cdf2b",
+        "settings": "src\/cb800a2c-4bf7-41c8-9360-cfe9d54cdf2b\/item.json",
+        "guid": "cb800a2c-4bf7-41c8-9360-cfe9d54cdf2b"
+    },
+    "c625381a-7795-4b9f-8b4e-997c9291e3fc": {
+        "name": "Openai (codefloe - mirror)",
+        "path": "src\/c625381a-7795-4b9f-8b4e-997c9291e3fc",
+        "settings": "src\/c625381a-7795-4b9f-8b4e-997c9291e3fc\/item.json",
+        "guid": "c625381a-7795-4b9f-8b4e-997c9291e3fc"
+    },
+    "8ac595d4-0b1d-4877-ba3e-2b815c1c7e3c": {
+        "name": "Joomla Powers (codefloe - mirror)",
+        "path": "src\/8ac595d4-0b1d-4877-ba3e-2b815c1c7e3c",
+        "settings": "src\/8ac595d4-0b1d-4877-ba3e-2b815c1c7e3c\/item.json",
+        "guid": "8ac595d4-0b1d-4877-ba3e-2b815c1c7e3c"
+    },
+    "bf4a1d77-e3a4-4aa8-a07f-2b01872bf7e9": {
+        "name": "Joomla Field Types (codefloe - mirror)",
+        "path": "src\/bf4a1d77-e3a4-4aa8-a07f-2b01872bf7e9",
+        "settings": "src\/bf4a1d77-e3a4-4aa8-a07f-2b01872bf7e9\/item.json",
+        "guid": "bf4a1d77-e3a4-4aa8-a07f-2b01872bf7e9"
+    },
+    "562624ab-48bf-4979-9a14-6b10cf3635de": {
+        "name": "Packages (github)",
+        "path": "src\/562624ab-48bf-4979-9a14-6b10cf3635de",
+        "settings": "src\/562624ab-48bf-4979-9a14-6b10cf3635de\/item.json",
+        "guid": "562624ab-48bf-4979-9a14-6b10cf3635de"
+    },
+    "70e85588-bc28-4459-9b29-858f68faae8f": {
+        "name": "Snippets (github)",
+        "path": "src\/70e85588-bc28-4459-9b29-858f68faae8f",
+        "settings": "src\/70e85588-bc28-4459-9b29-858f68faae8f\/item.json",
+        "guid": "70e85588-bc28-4459-9b29-858f68faae8f"
+    },
+    "8f156882-f299-4be2-ad13-fdb2c40bb207": {
+        "name": "Repositories (github)",
+        "path": "src\/8f156882-f299-4be2-ad13-fdb2c40bb207",
+        "settings": "src\/8f156882-f299-4be2-ad13-fdb2c40bb207\/item.json",
+        "guid": "8f156882-f299-4be2-ad13-fdb2c40bb207"
+    },
+    "11298fc6-11a4-4075-bdcb-622ef4f3054d": {
+        "name": "Packages (codefloe - mirror)",
+        "path": "src\/11298fc6-11a4-4075-bdcb-622ef4f3054d",
+        "settings": "src\/11298fc6-11a4-4075-bdcb-622ef4f3054d\/item.json",
+        "guid": "11298fc6-11a4-4075-bdcb-622ef4f3054d"
+    },
+    "70a9b44b-0802-4b94-9132-e5f360d0215e": {
+        "name": "Snippets (codefloe - mirror)",
+        "path": "src\/70a9b44b-0802-4b94-9132-e5f360d0215e",
+        "settings": "src\/70a9b44b-0802-4b94-9132-e5f360d0215e\/item.json",
+        "guid": "70a9b44b-0802-4b94-9132-e5f360d0215e"
+    },
+    "a8701724-b77c-4e5a-9efc-61701341e8e5": {
+        "name": "Repositories (codefloe - mirror)",
+        "path": "src\/a8701724-b77c-4e5a-9efc-61701341e8e5",
+        "settings": "src\/a8701724-b77c-4e5a-9efc-61701341e8e5\/item.json",
+        "guid": "a8701724-b77c-4e5a-9efc-61701341e8e5"
+    },
+    "ca50a886-0fd9-4fd8-803f-ba2cd9f43f55": {
+        "name": "Joomla Packages (github)",
+        "path": "src\/ca50a886-0fd9-4fd8-803f-ba2cd9f43f55",
+        "settings": "src\/ca50a886-0fd9-4fd8-803f-ba2cd9f43f55\/item.json",
+        "guid": "ca50a886-0fd9-4fd8-803f-ba2cd9f43f55"
+    },
+    "7d7b5688-6ac9-422a-8fba-b3ce7ece6ac4": {
+        "name": "Search (codefloe - mirror)",
+        "path": "src\/7d7b5688-6ac9-422a-8fba-b3ce7ece6ac4",
+        "settings": "src\/7d7b5688-6ac9-422a-8fba-b3ce7ece6ac4\/item.json",
+        "guid": "7d7b5688-6ac9-422a-8fba-b3ce7ece6ac4"
+    },
+    "93af374c-f48f-47b7-8be1-870e814f3001": {
+        "name": "PSR (codefloe - mirror)",
+        "path": "src\/93af374c-f48f-47b7-8be1-870e814f3001",
+        "settings": "src\/93af374c-f48f-47b7-8be1-870e814f3001\/item.json",
+        "guid": "93af374c-f48f-47b7-8be1-870e814f3001"
+    },
+    "1ea3f09b-b65c-4fc2-b850-7996ab81bf83": {
+        "name": "Minify (codefloe - mirror)",
+        "path": "src\/1ea3f09b-b65c-4fc2-b850-7996ab81bf83",
+        "settings": "src\/1ea3f09b-b65c-4fc2-b850-7996ab81bf83\/item.json",
+        "guid": "1ea3f09b-b65c-4fc2-b850-7996ab81bf83"
+    },
+    "b07f99f2-30be-4b29-a158-0fb98692cf89": {
+        "name": "Joomla Packages (codefloe - mirror)",
+        "path": "src\/b07f99f2-30be-4b29-a158-0fb98692cf89",
+        "settings": "src\/b07f99f2-30be-4b29-a158-0fb98692cf89\/item.json",
+        "guid": "b07f99f2-30be-4b29-a158-0fb98692cf89"
+    },
+    "e10a2193-aa8b-4414-a57e-fa4bbedbf063": {
+        "name": "Joomla Field Types (github)",
+        "path": "src\/e10a2193-aa8b-4414-a57e-fa4bbedbf063",
+        "settings": "src\/e10a2193-aa8b-4414-a57e-fa4bbedbf063\/item.json",
+        "guid": "e10a2193-aa8b-4414-a57e-fa4bbedbf063"
+    },
+    "183fac1f-bfee-4993-8e21-4dbdde4d7e3f": {
+        "name": "Super Powers (github)",
+        "path": "src\/183fac1f-bfee-4993-8e21-4dbdde4d7e3f",
+        "settings": "src\/183fac1f-bfee-4993-8e21-4dbdde4d7e3f\/item.json",
+        "guid": "183fac1f-bfee-4993-8e21-4dbdde4d7e3f"
+    },
+    "8b4a4649-cffb-4cda-a695-b8162cbe8f99": {
+        "name": "PHP Seclib (github)",
+        "path": "src\/8b4a4649-cffb-4cda-a695-b8162cbe8f99",
+        "settings": "src\/8b4a4649-cffb-4cda-a695-b8162cbe8f99\/item.json",
+        "guid": "8b4a4649-cffb-4cda-a695-b8162cbe8f99"
+    },
+    "c743c2b1-354a-4d21-acd6-5e14a13065ce": {
+        "name": "Gitea (github)",
+        "path": "src\/c743c2b1-354a-4d21-acd6-5e14a13065ce",
+        "settings": "src\/c743c2b1-354a-4d21-acd6-5e14a13065ce\/item.json",
+        "guid": "c743c2b1-354a-4d21-acd6-5e14a13065ce"
+    },
+    "da402346-a3cb-49f1-9eae-b11026f48eaa": {
+        "name": "Openai (github)",
+        "path": "src\/da402346-a3cb-49f1-9eae-b11026f48eaa",
+        "settings": "src\/da402346-a3cb-49f1-9eae-b11026f48eaa\/item.json",
+        "guid": "da402346-a3cb-49f1-9eae-b11026f48eaa"
+    },
+    "4088b8b0-e92c-4f59-b480-7da328e3d828": {
+        "name": "Joomla Powers (github)",
+        "path": "src\/4088b8b0-e92c-4f59-b480-7da328e3d828",
+        "settings": "src\/4088b8b0-e92c-4f59-b480-7da328e3d828\/item.json",
+        "guid": "4088b8b0-e92c-4f59-b480-7da328e3d828"
+    },
+    "dcc988f9-88b4-4acb-9a07-9ace866414ca": {
+        "name": "Search (github)",
+        "path": "src\/dcc988f9-88b4-4acb-9a07-9ace866414ca",
+        "settings": "src\/dcc988f9-88b4-4acb-9a07-9ace866414ca\/item.json",
+        "guid": "dcc988f9-88b4-4acb-9a07-9ace866414ca"
+    },
+    "5ff9f972-960b-46ba-a0e8-ff737b13007c": {
+        "name": "PSR (github)",
+        "path": "src\/5ff9f972-960b-46ba-a0e8-ff737b13007c",
+        "settings": "src\/5ff9f972-960b-46ba-a0e8-ff737b13007c\/item.json",
+        "guid": "5ff9f972-960b-46ba-a0e8-ff737b13007c"
+    },
+    "8cacacde-03db-46e9-bfa2-84985d26e666": {
+        "name": "Minify (github)",
+        "path": "src\/8cacacde-03db-46e9-bfa2-84985d26e666",
+        "settings": "src\/8cacacde-03db-46e9-bfa2-84985d26e666\/item.json",
+        "guid": "8cacacde-03db-46e9-bfa2-84985d26e666"
+    }
+}
