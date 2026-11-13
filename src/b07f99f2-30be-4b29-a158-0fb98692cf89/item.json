@@ -1,0 +1,16 @@
+{
+    "system_name": "Joomla Packages (codefloe - mirror)",
+    "organisation": "joomla",
+    "repository": "joomla-packages",
+    "target": 4,
+    "type": 1,
+    "base": "https:\/\/codefloe.com",
+    "guid": "b07f99f2-30be-4b29-a158-0fb98692cf89",
+    "addplaceholders": null,
+    "access_repo": 0,
+    "write_branch": "",
+    "read_branch": "master",
+    "author_email": "",
+    "author_name": "",
+    "username": ""
+}
