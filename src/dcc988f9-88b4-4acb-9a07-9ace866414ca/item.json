@@ -1,0 +1,16 @@
+{
+    "system_name": "Search (github)",
+    "organisation": "joomengine",
+    "repository": "search",
+    "target": 1,
+    "type": 2,
+    "base": "https:\/\/github.com\/",
+    "guid": "dcc988f9-88b4-4acb-9a07-9ace866414ca",
+    "addplaceholders": null,
+    "access_repo": 0,
+    "write_branch": "",
+    "read_branch": "master",
+    "author_email": "",
+    "author_name": "",
+    "username": ""
+}
