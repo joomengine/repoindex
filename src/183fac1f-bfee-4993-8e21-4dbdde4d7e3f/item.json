@@ -1,0 +1,16 @@
+{
+    "system_name": "Super Powers (github)",
+    "organisation": "joomengine",
+    "repository": "super-powers",
+    "target": 1,
+    "type": 2,
+    "base": "https:\/\/github.com\/",
+    "guid": "183fac1f-bfee-4993-8e21-4dbdde4d7e3f",
+    "addplaceholders": null,
+    "access_repo": 0,
+    "write_branch": "",
+    "read_branch": "master",
+    "author_email": "",
+    "author_name": "",
+    "username": ""
+}
