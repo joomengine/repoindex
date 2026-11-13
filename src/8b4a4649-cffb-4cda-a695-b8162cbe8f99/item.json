@@ -1,0 +1,16 @@
+{
+    "system_name": "PHP Seclib (github)",
+    "organisation": "joomengine",
+    "repository": "phpseclib",
+    "target": 1,
+    "type": 2,
+    "base": "https:\/\/github.com\/",
+    "guid": "8b4a4649-cffb-4cda-a695-b8162cbe8f99",
+    "addplaceholders": null,
+    "access_repo": 0,
+    "write_branch": "",
+    "read_branch": "master",
+    "author_email": "",
+    "author_name": "",
+    "username": ""
+}
