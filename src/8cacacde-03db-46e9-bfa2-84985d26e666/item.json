@@ -1,0 +1,16 @@
+{
+    "system_name": "Minify (github)",
+    "organisation": "joomengine",
+    "repository": "minify",
+    "target": 1,
+    "type": 2,
+    "base": "https:\/\/github.com\/",
+    "guid": "8cacacde-03db-46e9-bfa2-84985d26e666",
+    "addplaceholders": null,
+    "access_repo": 0,
+    "write_branch": "",
+    "read_branch": "master",
+    "author_email": "",
+    "author_name": "",
+    "username": ""
+}
